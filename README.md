@@ -7,7 +7,7 @@ Example: [test.rb](https://github.com/SnowballSH/StaticRuby/blob/master/test/tes
 RubyGem: [static-ruby](https://rubygems.org/gems/static-ruby)
 
 Install: 
-- Gemfile: `gem 'static-ruby', '~> 0.0.3'`
+- Gemfile: `gem 'static-ruby', '~> 0.0.3.1'`
 - Global: `gem install static-ruby`
 
 ```ruby
