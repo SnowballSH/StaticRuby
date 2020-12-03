@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f62ba407-5d60-4d80-be82-92a6faa52fd1" name="Default Changelist" comment="" />
+    <list default="true" id="f62ba407-5d60-4d80-be82-92a6faa52fd1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -15,6 +20,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1l9YeuVgvchv9GX8PlIOILDhoNa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -103,12 +109,23 @@
       <option name="presentableId" value="Default" />
       <updated>1607010872372</updated>
       <workItem from="1607010873430" duration="95000" />
-      <workItem from="1607010997914" duration="5357000" />
+      <workItem from="1607010997914" duration="5668000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="14" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607011395604">
@@ -123,22 +140,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607010966729" />
-    <state width="1323" height="172" key="GridCell.Tab.0.bottom" timestamp="1607016346380">
+    <state width="1323" height="172" key="GridCell.Tab.0.bottom" timestamp="1607016505618">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607016346380" />
-    <state width="1323" height="172" key="GridCell.Tab.0.center" timestamp="1607016346380">
+    <state width="1323" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607016505618" />
+    <state width="1323" height="172" key="GridCell.Tab.0.center" timestamp="1607016505618">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="172" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607016346380" />
-    <state width="1323" height="172" key="GridCell.Tab.0.left" timestamp="1607016346380">
+    <state width="1323" height="172" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607016505618" />
+    <state width="1323" height="172" key="GridCell.Tab.0.left" timestamp="1607016505618">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="172" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607016346380" />
-    <state width="1323" height="172" key="GridCell.Tab.0.right" timestamp="1607016346380">
+    <state width="1323" height="172" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607016505618" />
+    <state width="1323" height="172" key="GridCell.Tab.0.right" timestamp="1607016505618">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="172" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607016346380" />
+    <state width="1323" height="172" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607016505618" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1607013415399">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -150,6 +167,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/StaticRuby@StaticRuby.rcov" NAME="StaticRuby Coverage Results" MODIFIED="1607011403552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="StaticRuby" />
-    <SUITE FILE_PATH="coverage/StaticRuby@test.rcov" NAME="test Coverage Results" MODIFIED="1607016293986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="test" />
+    <SUITE FILE_PATH="coverage/StaticRuby@test.rcov" NAME="test Coverage Results" MODIFIED="1607016404779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" MODULE_NAME="test" />
   </component>
 </project>
