@@ -7,5 +7,5 @@ Gem::Specification.new do |s|
   s.authors     = ["SnowballSH"]
   s.email       = 'derek070211@gmail.com'
   s.files       = ["lib/static_ruby.rb"]
-  s.homepage    = 'https://rubygems.org/gems/static-ruby'
+  s.homepage    = 'https://github.com/SnowballSH/StaticRuby'
 end
