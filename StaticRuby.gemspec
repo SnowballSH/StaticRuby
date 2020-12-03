@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'static-ruby'
-  s.version     = '0.0.3'
+  s.version     = '0.0.3.1'
   s.licenses    = ['MIT']
   s.summary     = "Static Ruby"
   s.description = "Create static and immutable structures in Ruby."
